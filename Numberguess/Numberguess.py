@@ -1,12 +1,12 @@
 import random
 
-name = input("Bitte Geben Sie ihren Namen ein")
+name = input("Bitte Geben Sie ihren Namen ein\n")
 string = name
 zufallszahlen = random.randint(1, 100)
 counter = 0
 
 while True:
-    guess = input("Bitte geben Sie eine Zahl ein")
+    guess = input("Bitte geben Sie eine Zahl ein\n")
     guess = int(guess)
     counter = counter + 1
     if zufallszahlen == guess:
