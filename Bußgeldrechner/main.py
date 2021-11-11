@@ -56,4 +56,3 @@ if geblitzt == "j":
                 exit("700€ Bußgeld, 2 Punkt & 3 Monat Fahrverbot, Herzlichen Glückwunsch, Depp")
             if geschwindigkeit > 70:
                 exit("Bruder 800€, 2 Punkte, 3 Monate Fahrverbot. Ciao Führerschein viel Spaß mit Fahrrad fahren")
-
