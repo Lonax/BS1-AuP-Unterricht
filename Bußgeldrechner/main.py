@@ -1,5 +1,3 @@
-
-
 print("Bußgeldrechner")
 print("--------------")
 
